@@ -7,22 +7,22 @@ import GlobeIcon from './icons/GlobeIcon';
 
 const projects: Project[] = [
   {
-    title: 'Decentralized Voting System',
-    description: 'A secure and transparent voting application built on the Ethereum blockchain, ensuring tamper-proof election results.',
-    imageUrl: 'https://picsum.photos/seed/project1/600/400',
+    title: 'TBD',
+    description: 'TBD',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
     githubUrl: 'https://github.com',
     projectUrl: '#',
   },
   {
-    title: 'NFT Ticketing Platform',
-    description: 'An innovative platform for event ticketing using Non-Fungible Tokens (NFTs) to prevent fraud and allow for a secondary market.',
-    imageUrl: 'https://picsum.photos/seed/project2/600/400',
+    title: 'TBD',
+    description: 'TBD',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
     githubUrl: 'https://github.com',
   },
   {
-    title: 'Supply Chain Tracker',
-    description: 'A proof-of-concept for tracking goods on a supply chain using Hyperledger Fabric for enhanced transparency and efficiency.',
-    imageUrl: 'https://picsum.photos/seed/project3/600/400',
+    title: 'TBD',
+    description: 'TBD',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
     projectUrl: '#',
   },
 ];

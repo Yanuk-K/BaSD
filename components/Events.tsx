@@ -5,25 +5,25 @@ import { Event } from '../types';
 
 const events: Event[] = [
   {
-    title: 'Intro to Smart Contracts Workshop',
-    date: 'October 26, 2024',
-    description: 'Learn the basics of Solidity and write your first smart contract on the Ethereum blockchain. No prior experience needed!',
-    location: 'Geisel Library, Seuss Room',
-    imageUrl: 'https://picsum.photos/seed/event1/600/400',
+    title: 'Library Walk Tabling',
+    date: 'January 05 2026 - January 09 2026',
+    description: 'Library walk tabling.',
+    location: 'Library Walk',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
   },
   {
-    title: 'DeFi Panel with Industry Experts',
-    date: 'November 15, 2024',
-    description: 'Join us for a discussion on the future of Decentralized Finance with leaders from top crypto companies.',
-    location: 'Price Center Theater',
-    imageUrl: 'https://picsum.photos/seed/event2/600/400',
+    title: 'TBD',
+    date: 'TBD',
+    description: 'TBD',
+    location: 'TBD',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
   },
   {
-    title: 'Blockchain Career Fair',
-    date: 'December 5, 2024',
-    description: 'Connect with recruiters from leading blockchain startups and tech giants looking to hire interns and full-time employees.',
-    location: 'RIMAC Arena',
-    imageUrl: 'https://picsum.photos/seed/event3/600/400',
+    title: 'TBD',
+    date: 'TBD',
+    description: 'TBD',
+    location: 'TBD',
+    imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true',
   },
 ];
 

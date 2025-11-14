@@ -45,13 +45,13 @@ const Hero: React.FC = () => {
       <div className="absolute top-0 left-0 w-full h-full bg-black opacity-60"></div>
       <div className="relative z-10 p-4 max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white mb-4 drop-shadow-lg">
-          Blockchain at <span className="gradient-text">UC San Diego</span>
+          <span className="gradient-text">Blockchain at UC San Diego</span>
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto drop-shadow-md">
           Pioneering the future of decentralized technology through education, development, and community.
         </p>
         <a
-          href="https://discord.com"
+          href="https://discord.gg/Ztx4w79PfU"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-indigo-600 rounded-full hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-900 focus:ring-indigo-500 transition-all duration-300 transform hover:scale-105"

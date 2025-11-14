@@ -57,8 +57,8 @@ const Header: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <nav className="flex items-center justify-between h-20">
           <a href="#home" onClick={handleLinkClick} className="flex items-center space-x-3 rtl:space-x-reverse">
-            <img src={"https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true"} className="h-10" alt="Blockchain at UCSD Logo" />
-            <span className="self-center text-lg sm:text-xl font-semibold whitespace-nowrap text-white">Blockchain at UCSD</span>
+            <img src={"https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true"} className="h-10" alt="Blockchain at UC San Diego Logo" />
+            <span className="self-center text-lg sm:text-xl font-semibold whitespace-nowrap text-white">Blockchain at UC San Diego</span>
           </a>
           
           <div className="md:hidden">

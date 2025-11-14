@@ -8,7 +8,7 @@ const Contact: React.FC = () => {
       <Section id="contact" title="Get Involved" subtitle="Ready to dive into the world of blockchain? Join our community!">
         <div className="text-center">
           <a
-            href="https://discord.com"
+            href="https://discord.gg/Ztx4w79PfU"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-10 py-5 text-xl font-bold text-white bg-indigo-600 rounded-full hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-indigo-500 transition-all duration-300 transform hover:scale-105"

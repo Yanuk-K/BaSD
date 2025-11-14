@@ -6,12 +6,12 @@ import GithubIcon from './icons/GithubIcon';
 import LinkedInIcon from './icons/LinkedInIcon';
 
 const teamMembers: TeamMember[] = [
-  { name: 'Alex Johnson', role: 'President', imageUrl: 'https://picsum.photos/seed/alex/400/400', linkedin: '#', github: '#' },
-  { name: 'Brenda Smith', role: 'VP of Technology', imageUrl: 'https://picsum.photos/seed/brenda/400/400', linkedin: '#', github: '#' },
-  { name: 'Charlie Brown', role: 'VP of Marketing', imageUrl: 'https://picsum.photos/seed/charlie/400/400', linkedin: '#' },
-  { name: 'Diana Prince', role: 'VP of Finance', imageUrl: 'https://picsum.photos/seed/diana/400/400', linkedin: '#', github: '#' },
-  { name: 'Ethan Hunt', role: 'Events Coordinator', imageUrl: 'https://picsum.photos/seed/ethan/400/400', github: '#' },
-  { name: 'Fiona Glenanne', role: 'Project Lead', imageUrl: 'https://picsum.photos/seed/fiona/400/400', linkedin: '#', github: '#' },
+  { name: 'Yeunwook Kim', role: 'President', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', linkedin: 'https://www.linkedin.com/in/yeun-wook-kim/', github: 'https://github.com/Yanuk-K/' },
+  { name: 'TBD', role: 'VP of Operations', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', linkedin: '#', github: '#' },
+  { name: 'TBD', role: 'VP of Engineering', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', linkedin: '#' },
+  { name: 'TBD', role: 'VP of Events', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', linkedin: '#', github: '#' },
+  { name: 'TBD', role: 'VP of Design', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', github: '#' },
+  { name: 'TBD', role: 'Engineering Team Lead', imageUrl: 'https://github.com/Yanuk-K/BaSD/blob/main/components/icons/logo_nobg.png?raw=true', linkedin: '#', github: '#' },
 ];
 
 const TeamMemberCard: React.FC<{ member: TeamMember }> = ({ member }) => (
